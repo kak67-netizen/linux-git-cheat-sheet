@@ -72,3 +72,10 @@ This cheat sheet contains common commands used in Linux and Git.
 **Syntax:** `chmod <permissions> <file>`
 
 **Example:** `chmod 755 script.sh` gives the owner full access and read/execute access to everyone else.
+## 11. `grep`
+
+**Description:** Searches text for lines matching a given pattern.
+
+**Syntax:** `grep "pattern" <file>`
+
+**Example:** `grep "error" log.txt` prints every line in log.txt containing the word error.
