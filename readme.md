@@ -93,3 +93,10 @@ This cheat sheet contains common commands used in Linux and Git.
 **Syntax:** `git status`
 
 **Example:** Running `git status` after editing readme.md shows it listed as modified.
+## 14. `git log`
+
+**Description:** Displays the commit history for the current branch.
+
+**Syntax:** `git log`
+
+**Example:** `git log --oneline` shows a condensed, one-line summary of each commit.
