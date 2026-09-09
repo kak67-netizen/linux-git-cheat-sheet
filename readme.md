@@ -37,3 +37,10 @@ This cheat sheet contains common commands used in Linux and Git.
 **Syntax:** `rm <file>` or `rm -r <directory>`
 
 **Example:** `rm -r old-notes` deletes the old-notes directory and everything inside it.
+## 6. `cp`
+
+**Description:** Copies a file or directory from one location to another.
+
+**Syntax:** `cp <source> <destination>`
+
+**Example:** `cp readme.md backup.md` creates a copy of readme.md named backup.md.
