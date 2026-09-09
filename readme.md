@@ -16,3 +16,10 @@ This cheat sheet contains common commands used in Linux and Git.
 **Syntax:** `ls [options]`
 
 **Example:** `ls -la` displays all files, including hidden files, in a detailed format.
+## 3. `cd`
+
+**Description:** Changes the current working directory.
+
+**Syntax:** `cd <directory>`
+
+**Example:** `cd /home/kyla/linux-git-cheat-sheet` moves into that directory.
