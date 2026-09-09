@@ -58,3 +58,10 @@ This cheat sheet contains common commands used in Linux and Git.
 **Syntax:** `cat <file>`
 
 **Example:** `cat readme.md` displays the full contents of readme.md.
+## 9. `touch`
+
+**Description:** Creates a new, empty file, or updates the timestamp of an existing one.
+
+**Syntax:** `touch <file>`
+
+**Example:** `touch notes.txt` creates an empty file called notes.txt.
