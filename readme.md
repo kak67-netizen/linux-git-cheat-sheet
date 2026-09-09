@@ -86,3 +86,10 @@ This cheat sheet contains common commands used in Linux and Git.
 **Syntax:** `man <command>`
 
 **Example:** `man ls` opens the manual page explaining all options for the ls command.
+## 13. `git status`
+
+**Description:** Shows the current branch and which files are staged, unstaged, or untracked.
+
+**Syntax:** `git status`
+
+**Example:** Running `git status` after editing readme.md shows it listed as modified.
