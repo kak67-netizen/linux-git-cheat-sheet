@@ -23,3 +23,10 @@ This cheat sheet contains common commands used in Linux and Git.
 **Syntax:** `cd <directory>`
 
 **Example:** `cd /home/kyla/linux-git-cheat-sheet` moves into that directory.
+## 4. `mkdir`
+
+**Description:** Creates a new, empty directory.
+
+**Syntax:** `mkdir <directory>`
+
+**Example:** `mkdir notes` creates a new folder called notes in the current directory.
