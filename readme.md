@@ -51,3 +51,10 @@ This cheat sheet contains common commands used in Linux and Git.
 **Syntax:** `mv <source> <destination>`
 
 **Example:** `mv notes.txt archive/notes.txt` moves notes.txt into the archive folder.
+## 8. `cat`
+
+**Description:** Prints the contents of a file to the terminal.
+
+**Syntax:** `cat <file>`
+
+**Example:** `cat readme.md` displays the full contents of readme.md.
