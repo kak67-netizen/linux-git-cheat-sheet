@@ -44,3 +44,10 @@ This cheat sheet contains common commands used in Linux and Git.
 **Syntax:** `cp <source> <destination>`
 
 **Example:** `cp readme.md backup.md` creates a copy of readme.md named backup.md.
+## 7. `mv`
+
+**Description:** Moves or renames a file or directory.
+
+**Syntax:** `mv <source> <destination>`
+
+**Example:** `mv notes.txt archive/notes.txt` moves notes.txt into the archive folder.
