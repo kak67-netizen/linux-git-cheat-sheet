@@ -30,3 +30,10 @@ This cheat sheet contains common commands used in Linux and Git.
 **Syntax:** `mkdir <directory>`
 
 **Example:** `mkdir notes` creates a new folder called notes in the current directory.
+## 5. `rm`
+
+**Description:** Deletes files, or directories when used with the -r flag.
+
+**Syntax:** `rm <file>` or `rm -r <directory>`
+
+**Example:** `rm -r old-notes` deletes the old-notes directory and everything inside it.
