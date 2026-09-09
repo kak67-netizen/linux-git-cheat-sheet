@@ -79,3 +79,10 @@ This cheat sheet contains common commands used in Linux and Git.
 **Syntax:** `grep "pattern" <file>`
 
 **Example:** `grep "error" log.txt` prints every line in log.txt containing the word error.
+## 12. `man`
+
+**Description:** Opens the manual page for a command, showing its usage and options.
+
+**Syntax:** `man <command>`
+
+**Example:** `man ls` opens the manual page explaining all options for the ls command.
