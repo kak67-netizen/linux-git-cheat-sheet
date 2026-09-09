@@ -65,3 +65,10 @@ This cheat sheet contains common commands used in Linux and Git.
 **Syntax:** `touch <file>`
 
 **Example:** `touch notes.txt` creates an empty file called notes.txt.
+## 10. `chmod`
+
+**Description:** Changes the read, write, and execute permissions on a file or directory.
+
+**Syntax:** `chmod <permissions> <file>`
+
+**Example:** `chmod 755 script.sh` gives the owner full access and read/execute access to everyone else.
