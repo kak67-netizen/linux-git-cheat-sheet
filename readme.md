@@ -100,3 +100,10 @@ This cheat sheet contains common commands used in Linux and Git.
 **Syntax:** `git log`
 
 **Example:** `git log --oneline` shows a condensed, one-line summary of each commit.
+## 15. `git pull`
+
+**Description:** Fetches changes from the remote repository and merges them into the current branch.
+
+**Syntax:** `git pull`
+
+**Example:** `git pull` updates your local main branch with the latest changes from GitHub.
